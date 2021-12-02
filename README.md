@@ -32,22 +32,64 @@ Execute the program
             <th>1</th>
             <th>2</th>
             <th>3</th>
-             <th>4</th>
+            <th>4</th>
             <th rowspan="6">lunch break</th>
             <th>5</th>
             <th>6</th>
          </tr>
           <tr>
              <td>MONDAY</td>
-             <td>Accounts</td>
-             <td>English</td>
-             <td>Statistics</td>
-             <td>Banking</td>
-             <td align="center">-</td>
-             <td align="center">EP</td>
+             <td>-</td>
+             <td>-</td>
+             <td>19MA221/Jaba jasphine</td>
+             <td>19MA221/jaba jasphine</td>
+             <td>19MA220/jaba jasphine</td>
+             <td>19MA220/jaba jasphine</td>
+             <td> align="center">EP</td>
          </tr>
-  
+         <tr>
+             <td>TUESDAY</td>
+             <td>19AI402/karthi govindharaju</td>
+             <td>19AI402/karthi govindharaju</td>
+             <td>19AI303/ram G.R</td>
+             <td>19AI303/ram G.R</td>
+             <td>19AI302/ram G.R</td>
+             <td>19AI302/ram G.R</td>
+             <td>align="center">EP</td>
+         </tr>
+
+         <tr>
+             <td>WEDNESDAY</td>
+             <td>19AI401/karthi govindhar</td>
+             <td>19AI401/karthi govindharaju</td>
+             <td>19MA220/Jaba jasphine</td>
+             <td>19MA220/jaba jasphine</td>
+             <td>-</td>
+             <td>-</td> 
+             <td> align="center">EP</td>
+         </tr>
+
+         <tr>
+             <td>THURSDAY</td>
+             <td>19AI302/ram G.R</td>
+             <td>19AT302/ram G.R</td>
+             <td>19AI301/Jaba jasphine</td>
+             <td>19AI301/jaba jasphine</td>
+             <td>19AI303/ram G.R</td>
+             <td>19AI303/ram G.R</td>
+             <td>align="center">EP</td>
+         </tr>
          
+          <tr>
+             <td>FRIDAY</td>
+             <td>19AI401/karthi govindharaju</td>
+             <td>19AI401/karthi govindharaju</td>
+             <td>19AI301/Jaba jasphine</td>
+             <td>19AI301/jaba jasphine</td>
+             <td>19EY701/subramanian.S</td>
+             <td>19EY701/subramanian.S</td>
+             <td> align="center">EP</td>
+         </tr>
       </table>
       
    </body>
@@ -56,3 +98,5 @@ Execute the program
 
 ~~~
 # OUPUT
+![GitHub Logo](.//logo.png)
+![GitHub Logo](.//TM.png)
